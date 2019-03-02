@@ -1,0 +1,1 @@
+# spring-boot-data-consumer-starter
